@@ -1,3 +1,2 @@
-I am trying learn and practice Git with Livecoding. > commands.txt
+I am trying to learn and practice Git with Livecoding.
 
-echo I am trying learn and practice Git with Livecoding.
