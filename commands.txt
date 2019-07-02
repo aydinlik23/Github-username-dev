@@ -1,0 +1,3 @@
+I am trying learn and practice Git with Livecoding. > commands.txt
+
+echo I am trying learn and practice Git with Livecoding.
